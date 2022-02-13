@@ -1,1 +1,1 @@
-# react-redux_todo
+# react-redux_typescript
